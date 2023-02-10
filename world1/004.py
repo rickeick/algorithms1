@@ -1,0 +1,10 @@
+# Dissecando uma variável
+frase = input('Digite algo: ')
+print(f'O tipo primitvo desse valor é {type(frase)}')
+print(f'Só tem espaços? {frase.isspace()}')
+print(f'É um número? {frase.isnumeric()}')
+print(f'É alfabetico? {frase.isalpha()}')
+print(f'É alfanúmerico? {frase.isalnum()}')
+print(f'Estar em maiúsculas? {frase.isupper()}')
+print(f'Estar em minúsculas? {frase.islower()}')
+print(f'Estar Capitalizada? {frase.istitle()}')
