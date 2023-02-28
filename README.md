@@ -1,6 +1,6 @@
 # Activities-Python
 
-Minhas soluções das atividades de python do canal Curso em Video, professor Ganabara
+Minhas soluções das atividades de python do canal Curso em Video do professor Ganabara
 
 ## Atividades
 
@@ -77,4 +77,28 @@ Minhas soluções das atividades de python do canal Curso em Video, professor Ga
 - 069 Análise de dados do grupo
 - 070 Estatística em produtos
 - 071 Simulador de caixa eletrônico
+
+### World 3
 - 072 Número por extenso
+- 073 Tuplas com times de futebol
+- 074 Maior e menor valores em tupla
+- 075 Análise de dados em uma tupla
+- 076 Lista de preços com tuplas
+- 077 Contando vogais em tupla
+- 078 Maior e menor valores na lista
+- 079 Valores únicos em uma lista
+- 080 Lista ordenada sem repetições
+- 081 Extraindo dados de uma lista
+- 082 Dividindo valores em várias listas
+- 083 Validando expressões
+- 084 Lista composta e análise de dados
+- 085 Listas com pares e ímpares
+- 086 Matriz em Python
+- 087 Mais sobre matriz em Python
+- 088 Palpites para a mega sena
+- 089 Boletim com listas compostas
+- 090 Dicionários em Python
+- 091 Jogo de dados em Python
+- 092 Cadastro de trabalhador em Python
+- 093 Cadastro de jogador de futebol
+- 094 Unindo dicionários e listas
