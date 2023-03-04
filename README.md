@@ -102,3 +102,23 @@ Minhas soluções das atividades de python do canal Curso em Video do professor 
 - 092 Cadastro de trabalhador em Python
 - 093 Cadastro de jogador de futebol
 - 094 Unindo dicionários e listas
+- 095 Aprimorando os dicionários
+- 096 Função que calcula área
+- 097 Um print especial
+- 098 Função de Contador
+- 099 Função que descobre o maior
+- 100 Funções para sortear e somar
+- 101 Função para votação
+- 102 Função para Fatorial
+- 103 Ficha do Jogador
+- 105 Validando entrada de dados em Python
+- 106 Sistema interativo de ajuda em Python
+- 107 Exercitando módulos em Python
+- 108 Formatando Moedas em Python
+- 109 Formatando Moedas em Python v2
+- 110 Reduzindo ainda mais seu programa
+- 111 Transformando módulos em pacotes
+- 112 Entrada de dados monetários
+- 113 Funções aprofundadas em Python
+- 114 Site está acessível?
+- 115 Arquivos com Python
