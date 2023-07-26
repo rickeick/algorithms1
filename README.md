@@ -122,3 +122,6 @@ Compilado das minhas soluções para as atividades de python do canal [Curso em 
 - 113 Funções aprofundadas em Python
 - 114 Site está acessível?
 - 115 Arquivos com Python
+
+## Trabalho Final
+Propõe o desenvolvimento de um jogo utilizando a biblioteca PyGame. O Two-Players apresenta a ideia de juntar vários jogos para dois jogadores em um. Nesse trabalho foram implmentados somente dois jogos (ping-pong e tic-tac-toe) e um menu inicial.
