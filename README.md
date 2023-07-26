@@ -1,10 +1,10 @@
-# Activities-Python
+# Algorithms I
 
-Minhas soluções das atividades de python do canal Curso em Video do professor Ganabara
+Compilado das minhas soluções para as atividades de python do canal [Curso em Video](https://www.youtube.com/@CursoemVideo) do professor Gustavo Ganabara, dos problemas propostos em disputas da Beecrowd organizado na disciplina de Algoritmos I pelo professor Carlos de Salles e o trabalho final da mesma.
 
-## Atividades
+## Curso Em Vídeo
 
-### World 1
+### Mundo 1
 - 001 Deixando tudo pronto
 - 002 Respondendo ao usuário
 - 003 Somando dois números
@@ -32,7 +32,7 @@ Minhas soluções das atividades de python do canal Curso em Video do professor 
 - 026 Primeira e último ocorrência de uma string
 - 027 Primeiro e último nome de uma pessoa
 
-### World 2
+### Mundo 2
 - 028 Jogo da advinhação
 - 029 Radar eletrônico
 - 030 Par ou ímpar?
@@ -78,7 +78,7 @@ Minhas soluções das atividades de python do canal Curso em Video do professor 
 - 070 Estatística em produtos
 - 071 Simulador de caixa eletrônico
 
-### World 3
+### Mundo 3
 - 072 Número por extenso
 - 073 Tuplas com times de futebol
 - 074 Maior e menor valores em tupla
