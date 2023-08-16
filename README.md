@@ -1,6 +1,6 @@
 # Algorithms I
 
-Compilado das minhas soluções para as atividades de python do canal [Curso em Video](https://www.youtube.com/@CursoemVideo) do professor Gustavo Ganabara, dos problemas propostos em disputas da Beecrowd organizado na disciplina de Algoritmos I pelo professor Carlos de Salles e o trabalho final da mesma.
+Compilado das minhas soluções para as atividades de python do canal [Curso em Video](https://www.youtube.com/@CursoemVideo) do professor Gustavo Ganabara, dos problemas propostos em torneios da Beecrowd organizados na disciplina de Algoritmos I pelo professor Carlos de Salles e o trabalho referente a 3ª nota da mesma.
 
 ## Curso Em Vídeo
 
@@ -123,5 +123,5 @@ Compilado das minhas soluções para as atividades de python do canal [Curso em 
 - 114 Site está acessível?
 - 115 Arquivos com Python
 
-## Trabalho Final
-Propõe o desenvolvimento de um jogo utilizando a biblioteca PyGame. O Two-Players apresenta a ideia de juntar vários jogos para dois jogadores em um. Nesse trabalho foram implmentados somente dois jogos (ping-pong e tic-tac-toe) e um menu inicial.
+## Trabalho
+Desenvolver um jogo utilizando a biblioteca PyGame. O Two-Players apresenta a ideia de juntar vários jogos para dois jogadores em um. Nesse trabalho foram implmentados somente dois jogos (ping-pong e tic-tac-toe) e um menu inicial.
