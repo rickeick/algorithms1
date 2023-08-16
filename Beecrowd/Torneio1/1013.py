@@ -1,0 +1,7 @@
+valores = input().split()
+n1 = int(valores[0])
+n2 = int(valores[1])
+n3 = int(valores[2])
+m1 = int((n1 + n2 + abs(n1 - n2)) / 2)
+m2 = int((n3 + m1 + abs(n3 - m1)) / 2)
+print(f"{m2} eh o maior")

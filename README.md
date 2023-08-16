@@ -123,5 +123,34 @@ Compilado das minhas soluções para as atividades de python do canal [Curso em 
 - 114 Site está acessível?
 - 115 Arquivos com Python
 
+## Beecrowd
+
+### Torneio 1 (03/11/21)
+- [1010 Cálculo Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1010)
+- [1011 Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
+- [1013 O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013)
+- [1014 Consumo](https://www.beecrowd.com.br/judge/pt/problems/view/1014)
+- [1015 Distância Entre Dois Pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
+- [1016 Distância](https://www.beecrowd.com.br/judge/pt/problems/view/1016)
+- [1018 Cédulas](https://www.beecrowd.com.br/judge/pt/problems/view/1018)
+- [1020 Idade em Dias](https://www.beecrowd.com.br/judge/pt/problems/view/1020)
+
+### Torneio 2 (18/11/21)
+- [1035 Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
+- [1036 Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
+- [1037 Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
+- [1038 Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
+- [1040 Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1040)
+- [1042 Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
+
+### Torneio 3 (20/11/21)
+- [1046 Tempo de Jogo](https://www.beecrowd.com.br/judge/pt/problems/view/1046)
+- [1049 Animal](https://www.beecrowd.com.br/judge/pt/problems/view/1049)
+- [1052 Mês](https://www.beecrowd.com.br/judge/pt/problems/view/1052)
+- [1930 Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
+- [2791 Feijão](https://www.beecrowd.com.br/judge/pt/problems/view/2791)
+- [2826 Léxico](https://www.beecrowd.com.br/judge/pt/problems/view/2826)
+- [3145 Uma Jornada Inesperada](https://www.beecrowd.com.br/judge/pt/problems/view/3145)
+
 ## Trabalho
 Desenvolver um jogo utilizando a biblioteca PyGame. O Two-Players apresenta a ideia de juntar vários jogos para dois jogadores em um. Nesse trabalho foram implmentados somente dois jogos (ping-pong e tic-tac-toe) e um menu inicial.
