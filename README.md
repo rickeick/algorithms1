@@ -144,6 +144,9 @@ Compilado das minhas soluções para as atividades de python do canal [Curso em 
 - [1042 Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
 
 ### Torneio 3 (20/11/21)
+- [1039 Flores de Fogo](https://www.beecrowd.com.br/judge/pt/problems/view/1039)
+- [1041 Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
+- [1045 Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
 - [1046 Tempo de Jogo](https://www.beecrowd.com.br/judge/pt/problems/view/1046)
 - [1049 Animal](https://www.beecrowd.com.br/judge/pt/problems/view/1049)
 - [1052 Mês](https://www.beecrowd.com.br/judge/pt/problems/view/1052)
@@ -151,6 +154,26 @@ Compilado das minhas soluções para as atividades de python do canal [Curso em 
 - [2791 Feijão](https://www.beecrowd.com.br/judge/pt/problems/view/2791)
 - [2826 Léxico](https://www.beecrowd.com.br/judge/pt/problems/view/2826)
 - [3145 Uma Jornada Inesperada](https://www.beecrowd.com.br/judge/pt/problems/view/3145)
+
+### Torneio 4 (08/12/21)
+- [1064 Positivos e Média](https://www.beecrowd.com.br/judge/pt/problems/view/1064)
+- [1072 Intervalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
+- [1073 Quadrado de Pares](https://www.beecrowd.com.br/judge/pt/problems/view/1073)
+- [1074 Par ou Ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074)
+- [1075 Resto 2](https://www.beecrowd.com.br/judge/pt/problems/view/1075)
+- [1078 Tabuada](https://www.beecrowd.com.br/judge/pt/problems/view/1078)
+- [1079 Médias Ponderadas](https://www.beecrowd.com.br/judge/pt/problems/view/1079)
+- [1080 Maior e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1080)
+
+### Torneio 5 (16/12/21)
+- [1172 Substituição em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1172)
+- [1173 Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173)
+- [1174 Seleçao em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1174)
+- [1175 Troca em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1175)
+- [1176 Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
+- [1177 Preenchimento de Vetor II](https://www.beecrowd.com.br/judge/pt/problems/view/1177)
+- [1178 Preenchimento de Vetor III](https://www.beecrowd.com.br/judge/pt/problems/view/1178)
+- [1179 Preenchimento de Vetor IV](https://www.beecrowd.com.br/judge/pt/problems/view/1179)
 
 ## Trabalho
 Desenvolver um jogo utilizando a biblioteca PyGame. O Two-Players apresenta a ideia de juntar vários jogos para dois jogadores em um. Nesse trabalho foram implmentados somente dois jogos (ping-pong e tic-tac-toe) e um menu inicial.

@@ -1,0 +1,5 @@
+N = list()
+V = int(input())
+N.append(V)
+for i in range(9): N.append(N[i]+N[i])
+for i in range(10): print(f'N[{i}] = {N[i]}')
